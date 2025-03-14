@@ -1,4 +1,4 @@
-# Openclassrooms Projet 3: Requetez une base de données avec SQL
+# Openclassrooms Projet 3: Requêtez une base de données avec SQL
 ## **Mission :**
 * **Contexte:**
   * Découverte des différents types de données
